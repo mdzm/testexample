@@ -1,6 +1,15 @@
 ﻿{4,
-{0},
-{0},
+{2,
+{2893fe9b-fe8f-49e7-b8cd-b9b0f82c9d9b,2893fe9b-fe8f-49e7-b8cd-b9b0f82c9d9b,1,
+{d5b0e5ed-256d-401c-9c36-f630cafd8a62,"Форма"}
+},
+{e4f809c6-2dc6-41eb-a73c-4a6375bbcab7,e4f809c6-2dc6-41eb-a73c-4a6375bbcab7,1,
+{c3831ec8-d8d5-4f93-8a22-f9bfae07327f,"ВнешняяОбработка_testexample"}
+}
+},
+{1,
+{38903303-be86-40bd-a4c3-9f525877bb1a,e4f809c6-2dc6-41eb-a73c-4a6375bbcab7,0}
+},
 {0},
 {0,0},
 {0}
