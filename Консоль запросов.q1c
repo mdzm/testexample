@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<querylist>
+	<query name="Справочник1">
+		<text>ВЫБРАТЬ
+	*
+ИЗ
+	Справочник.Справочник1 КАК Справочник1
+</text>
+	</query>
+</querylist>
